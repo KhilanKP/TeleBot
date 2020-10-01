@@ -50,3 +50,17 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
+- Steps to get important vars from my.telegram.org
+   a) Visit the link my.telegram.org
+   b) You will find an option to enter your
+      Registered telegram number. Proceed with
+      Your number and click Next or Send OTP.
+   c) Open your telegram app and you will find 
+      message from telegram containing your OTP,
+      Enter it and proceed.
+   d) On next page click API development tools.
+   e) In given Spaces fill up random details, 
+      But platform must be Android.
+   f) Click Create Application.
+
+VOILA!! You will get your desired Vars upon scrolling there.
